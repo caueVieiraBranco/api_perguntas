@@ -1,5 +1,0 @@
-# Ignorar arquivos sensíveis e temporários
-__pycache__/
-*.pyc
-.env
-tokens.json
