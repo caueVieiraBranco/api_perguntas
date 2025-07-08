@@ -1,6 +1,2 @@
 requests
 python-dateutil
-random
-datetime
-from dateutil import parser
-logging
